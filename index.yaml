@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hello-andre:
+  - apiVersion: v1
+    created: 2017-09-12T22:01:51.565958502-05:00
+    description: A Helm chart for Kubernetes
+    digest: 2a394ba1c0c6a3a2f12d16eec9dfb45059dd3d953228454dde817d2366690bd4
+    icon: https://commons.wikimedia.org/wiki/File:IBM_logo.svg
+    name: hello-andre
+    urls:
+    - hello-andre-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-09-12T22:01:51.564871723-05:00
